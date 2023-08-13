@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Server-side source code for ChatVerse",
   "main": "index.ts",
-  "repository": "",
+  "repository": "https://github.com/Gauravgarg233/ChatVerse.git",
   "author": "Gaurav Garg",
   "license": "",
   "type": "module",
