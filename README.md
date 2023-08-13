@@ -3,7 +3,7 @@
 ## Quick Start
 - Clone the repository
 ```console
-$ git clone 
+$ git clone https://github.com/Gauravgarg233/ChatVerse.git
 ```
 - Move into the repository
 ```console
